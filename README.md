@@ -1,2 +1,2 @@
 # Hola-Galaxia
-Repositorio de la guia
+Este Es Un Programa Para Destruir toda La Galaxia...
